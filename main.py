@@ -18,7 +18,7 @@ class Streamer:
 
 # Функция вне класса
 def print_stats(streamer):
-    print("=== Статистика стримера ===")
+    print("=== СУПЕР Статистика стримера ===")
     print("Ник:", streamer.nick)
     print("Подписчики:", streamer.followers)
     print("Всего донатов:", streamer.total_donates())
